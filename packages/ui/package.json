@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "private": true,
   "exports": {
-    "./styles/index.css": "./styles/index.css",
+    "./styles/*": "./styles/*",
     "./globals.css": "./globals.css",
     "./components/*": "./components/*",
     "./lib/*": "./lib/*"

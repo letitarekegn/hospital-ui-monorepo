@@ -1,3 +1,4 @@
+'use client'
 import { Hero } from "@workspace/ui/components/hero"
 import { Section } from "@workspace/ui/components/section"
 import { MedicineCard } from "@workspace/ui/components/medicine-card"
