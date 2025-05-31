@@ -1,6 +1,6 @@
 import type React from "react"
 import type { Metadata } from "next"
-import "@hospital/ui/styles"
+import "@workspace/ui/styles/index.css"
 import "./globals.css"
 
 export const metadata: Metadata = {

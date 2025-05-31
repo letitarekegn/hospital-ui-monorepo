@@ -1,3 +1,4 @@
+"use client"
 import { Button } from "../../ui/button"
 export function ScheduleButton() {
   const handleClick = () => alert("Schedule surgery clicked")

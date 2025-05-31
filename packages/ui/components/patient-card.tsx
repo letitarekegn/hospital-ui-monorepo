@@ -1,3 +1,4 @@
+"use client"
 import { Card } from "../../ui/card"
 export function PatientCard({ patient }: { patient: { name: string; condition: string; arrivalTime: string } }) {
   return (

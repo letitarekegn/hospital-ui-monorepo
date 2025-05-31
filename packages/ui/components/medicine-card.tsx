@@ -1,3 +1,4 @@
+"use client"
 import { Card } from "../../ui/card"
 
 export function MedicineCard({ medicine }: { medicine: { name: string; type: string; dosage: string } }) {

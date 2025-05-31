@@ -1,3 +1,5 @@
+# Lidiya Mulachew UGR/23156/13 #
+
 # Pharmacy Management App
 
 Comprehensive pharmacy inventory and prescription management system with real-time stock monitoring.
